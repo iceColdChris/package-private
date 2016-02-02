@@ -1,4 +1,4 @@
-package processor;
+package com.github.jaimiew.annotation.processor;
 
 import java.util.Set;
 
@@ -7,7 +7,7 @@ import javax.lang.model.SourceVersion;
 import javax.lang.model.element.*;
 import javax.tools.Diagnostic;
 
-import annotation.PackagePrivate;
+import com.github.jaimiew.annotation.PackagePrivate;
 
 @SupportedAnnotationTypes("annotation.PackagePrivate")
 @SupportedSourceVersion(SourceVersion.RELEASE_6)

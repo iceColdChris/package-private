@@ -1,4 +1,4 @@
-package annotation;
+package com.github.jaimiew.annotation;
 
 import java.lang.annotation.*;
 

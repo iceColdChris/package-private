@@ -1,1 +1,1 @@
-processor.PackagePrivateProcessor
+com.github.jaimiew.annotation.processor.PackagePrivateProcessor
