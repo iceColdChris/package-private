@@ -1,0 +1,14 @@
+
+bin/META-INF/services/javax.annotation.processing.Processor
+
+*.class
+
+.settings/gradle.prefs
+
+.settings/org.eclipse.buildship.core.prefs
+
+build/libs/package-private.jar
+
+build/resources/main/META-INF/services/javax.annotation.processing.Processor
+
+build/tmp/jar/MANIFEST.MF
